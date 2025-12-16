@@ -68,7 +68,7 @@ A Business Intelligence tool designed to help content creators identify viral tr
   - 🤖 **AI Platform Strategist:** Predicts the best platform for content using historical decay rates.
   - 🧮 **ERR Calculator:** Real-time engagement benchmarking with anomaly detection.
   - 📊 **Diagnostic Charts:** Bubble analysis for virality tracking.
-<br/>
+    
 ### [🚨 PH Flood Control Projects Tracker](https://github.com/dee7205/ph-flood-control-tracker)
 *Educational project on transparency in public infrastructure.*
 
