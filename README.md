@@ -57,7 +57,7 @@ I am a computer science student passionate about bridging the gap between **Data
 
 ---
 
-## 🏆 Featured Project
+## 🏆 Featured Projects
 
 ### [🚀 Viral Social Media Analytics Dashboard](https://github.com/dee7205/social-media-dashboard-bi)
 *Built with Team Gimatag for CSDS 313*
@@ -68,6 +68,16 @@ A Business Intelligence tool designed to help content creators identify viral tr
   - 🤖 **AI Platform Strategist:** Predicts the best platform for content using historical decay rates.
   - 🧮 **ERR Calculator:** Real-time engagement benchmarking with anomaly detection.
   - 📊 **Diagnostic Charts:** Bubble analysis for virality tracking.
+<br/>
+### [🚨 PH Flood Control Projects Tracker](https://github.com/dee7205/ph-flood-control-tracker)
+*Educational project on transparency in public infrastructure.*
+
+An interactive dashboard designed to analyze public spending and flag anomalies in flood control projects.
+- **Tech:** Streamlit, Python, Plotly, Pandas, Scikit-Learn.
+- **Key Features:**
+  - 🚩 **Red Flag Metrics:** Instantly highlights high-value projects, delays, and suspicious savings.
+  - 🔍 **Anomaly Detection:** Uses Isolation Forest to detect statistical outliers in project costs.
+  - 🗺️ **Geographic Mapping:** Visualizes project distribution across the Philippines.
 
 ---
 
