@@ -59,7 +59,7 @@ I am a computer science student passionate about bridging the gap between **Data
 
 ## 🏆 Featured Project
 
-### [🚀 Viral Social Media Analytics Dashboard](https://github.com/dee7205social-media-dashboard-bi)
+### [🚀 Viral Social Media Analytics Dashboard](https://github.com/dee7205/social-media-dashboard-bi)
 *Built with Team Gimatag for CSDS 313*
 
 A Business Intelligence tool designed to help content creators identify viral trends.
