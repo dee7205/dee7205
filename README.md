@@ -46,7 +46,7 @@ I am a computer science student passionate about bridging the gap between **Data
 ### **Frontend & Data Viz**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Recharts](https://img.shields.io/badge/Recharts-22b5bf?style=for-the-badge&logo=react&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-#ffffff.svg?style=for-the-badge&logo=pandas&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%2311557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -59,7 +59,7 @@ I am a computer science student passionate about bridging the gap between **Data
 
 ## 🏆 Featured Project
 
-### [🚀 Viral Social Media Analytics Dashboard](https://github.com/your-username/social-media-dashboard)
+### [🚀 Viral Social Media Analytics Dashboard](https://github.com/dee7205social-media-dashboard-bi)
 *Built with Team Gimatag for CSDS 313*
 
 A Business Intelligence tool designed to help content creators identify viral trends.
